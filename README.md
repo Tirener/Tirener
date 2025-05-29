@@ -1,5 +1,5 @@
 <!-- Header / Banner -->
-<h1 align="center"># Basically God</h1>
+<h1 align="center">Basically God</h1>
 <p align="center">
   I do cool network stuff | Number 1 programming hater 
 </p>
