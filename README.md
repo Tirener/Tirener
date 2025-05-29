@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Causing+chaos+in+Shadiom;Annoying+the+boys;Definitely+not+doing+schoolwork" />
 </p>
 
-
 <!-- Badges 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
@@ -45,7 +44,7 @@ currently_learning:
 fun_facts:
   - I fix bugs by making them a feature
   - My threat model includes ducks with Wi-Fi
-  - Catchphrase: W.I.P
+  - Catchphrase: Fuck it we ball
 
 future_goals:
   - Avoid C# at all costs
