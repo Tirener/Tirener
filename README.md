@@ -4,6 +4,11 @@
   I do cool network stuff | Number 1 programming hater 
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Causing+chaoes+in+Shadiom;Annoying+the+boys;Definitely+not+doing+schoolwork" />
+</p>
+
+
 <!-- Badges 
 <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white"/></a>
