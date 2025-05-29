@@ -19,12 +19,37 @@
 
 ```yaml
 
-languages I can KINDDA use:
+languages_I_can_KINDDA_use:
   - Python
-  - Typescript
+  - TypeScript
   - C
-Stuff I like doing:
+  - Bash (for pretending I know what I'm doing)
+  - SQL (just SELECT stuff and hope for the best)
+
+stuff_I_like_doing:
   - Telling Theo I told you so
   - Doing anything but schoolwork
   - Pushing bugs into production servers
-currently_learning: How to dodge taxes
+  - Writing code that somehow works but shouldn't
+  - Debugging by deleting things randomly
+  - Breaking stuff and calling it "feature testing"
+  - Giving variables meaningful names like `x` and `stuff`
+
+currently_learning:
+  - How to dodge taxes
+  - Writing secure code (after pushing exploits)
+  - Why semicolons exist
+  - The difference between TCP and UDP (again)
+  - How to explain to HR why "Basically God" is in my GitHub profile
+
+fun_facts:
+  - I once fixed a bug by making the bug a feature
+  - My debug strategy: print, panic, push
+  - My threat model includes ducks with Wi-Fi
+  - Catchphrase: “It works on my machine”
+
+future_goals:
+  - Avoid C# at all costs
+  - Finally write a README that doesn’t insult someone
+  - Get Theo to admit I was right (again)
+
