@@ -35,23 +35,17 @@ stuff_I_like_doing:
   - Telling Theo I told you so
   - Doing anything but schoolwork
   - Pushing bugs into production servers
-  - Writing code that somehow works but shouldn't
-  - Debugging by deleting things randomly
-  - Breaking stuff and calling it "feature testing"
-  - Giving variables meaningful names like `x` and `stuff`
 
 currently_learning:
   - How to dodge taxes
-  - Writing secure code (after pushing exploits)
   - Why semicolons exist
   - The difference between TCP and UDP (again)
   - How to explain to HR why "Basically God" is in my GitHub profile
 
 fun_facts:
-  - I once fixed a bug by making the bug a feature
-  - My debug strategy: print, panic, push
+  - I fix bugs by making them a feature
   - My threat model includes ducks with Wi-Fi
-  - Catchphrase: “It works on my machine”
+  - Catchphrase: W.I.P
 
 future_goals:
   - Avoid C# at all costs
