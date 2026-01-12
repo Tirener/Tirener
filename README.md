@@ -1,5 +1,5 @@
 <!-- Header / Banner -->
-<h1 align="center">Basically God</h1>
+<h1 align="center">Backend Demon</h1>
 <p align="center">
   I do cool network stuff | Number 1 programming hater 
 </p>
@@ -51,6 +51,3 @@ future_goals:
   - Finally write a README that doesn’t insult someone
   - Get Theo to admit I was right (again)
 ```
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Why+are+you+still+here" />
-</p>
