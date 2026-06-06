@@ -1,11 +1,7 @@
 <!-- Header / Banner -->
 <h1 align="center">Backend Demon</h1>
 <p align="center">
-  I do cool network stuff | Number 1 programming hater 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Causing+chaos+in+Shadiom;Annoying+the+boys;Definitely+not+doing+schoolwork" />
+  I do cool network stuff | 
 </p>
 
 <!-- Badges 
@@ -23,31 +19,11 @@
 
 ```yaml
 
-languages_I_can_KINDDA_use:
+Languages i can kindda use:
   - Python
   - TypeScript
   - C
-  - Bash (for pretending I know what I'm doing)
-  - SQL (just SELECT stuff and hope for the best)
+  - Bash 
+  - SQL 
 
-stuff_I_like_doing:
-  - Telling Theo I told you so
-  - Doing anything but schoolwork
-  - Pushing bugs into production servers
-
-currently_learning:
-  - How to dodge taxes
-  - Why semicolons exist
-  - The difference between TCP and UDP (again)
-  - How to explain to HR why "Basically God" is in my GitHub profile
-
-fun_facts:
-  - I fix bugs by making them a feature
-  - My threat model includes ducks with Wi-Fi
-  - Catchphrase: Fuck it we ball
-
-future_goals:
-  - Avoid C# at all costs
-  - Finally write a README that doesn’t insult someone
-  - Get Theo to admit I was right (again)
 ```
