@@ -21,9 +21,15 @@
 
 Languages i can kindda use:
   - Python
+  - Lua
   - TypeScript
   - C
+  - C#
+  - C++
+  - Java
   - Bash 
   - SQL 
 
 ```
+## I do comms! Come support me!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X1V022Z0BW)
